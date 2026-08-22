@@ -1,0 +1,7 @@
+{
+  "$schema": "https://baditaflorin.github.io/mesh-common/mesh-service.schema.json",
+  "id": "mesh-focus-sprint",
+  "category": "Productivity",
+  "subcategory": "Focus & routines",
+  "useCases": ["study", "coworking", "pomodoro"]
+}
